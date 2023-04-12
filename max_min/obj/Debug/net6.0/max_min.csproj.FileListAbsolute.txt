@@ -1,0 +1,15 @@
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\bin\Debug\net6.0\max_min.exe
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\bin\Debug\net6.0\max_min.deps.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\bin\Debug\net6.0\max_min.runtimeconfig.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\bin\Debug\net6.0\max_min.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\bin\Debug\net6.0\max_min.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.csproj.AssemblyReference.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.AssemblyInfoInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.AssemblyInfo.cs
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.csproj.CoreCompileInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\refint\max_min.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\max_min.genruntimeconfig.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\max_min\obj\Debug\net6.0\ref\max_min.dll
