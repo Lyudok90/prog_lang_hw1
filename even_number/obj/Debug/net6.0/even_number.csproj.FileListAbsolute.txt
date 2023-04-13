@@ -1,0 +1,15 @@
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.csproj.AssemblyReference.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.AssemblyInfoInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.AssemblyInfo.cs
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.csproj.CoreCompileInputs.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\bin\Debug\net6.0\even_number.exe
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\bin\Debug\net6.0\even_number.deps.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\bin\Debug\net6.0\even_number.runtimeconfig.json
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\bin\Debug\net6.0\even_number.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\bin\Debug\net6.0\even_number.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\refint\even_number.dll
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.pdb
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\even_number.genruntimeconfig.cache
+C:\Users\Harut\Desktop\dz\prog_lang\homework1\even_number\obj\Debug\net6.0\ref\even_number.dll
